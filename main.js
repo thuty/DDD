@@ -1,0 +1,1 @@
+let aulai =["stro","200","full box","thuty" ,"thuty" ,"thuty" ,"thuty" ,"thuty" ,"thuty" ,"thuty" ,"thuty" ,"thuty" ,"thuty" ,"thuty" ,"thuty" ,"thuty" ,"thuty"]
